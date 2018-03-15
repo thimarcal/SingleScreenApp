@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessInfo</string>
+    <string name="studio_name">My Ink Tattoo Studio</string>
+    <string name="address">R. das Acácias, 535\nCampinas / SP</string>
+    <string name="hours">8:00AM ~ 6:00 PM</string>
+    <string name="phone">(19) 9.9981-0001</string>
+    <string name="description">Um moderno estúdio de tatuagem, pronto para te receber e deixar marcado
+        os desenhos que mais te agradam. Marque seu horário e venha fazer uma visita.</string>
+</resources>
